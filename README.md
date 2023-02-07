@@ -32,7 +32,8 @@ Lending companies work by analyzing the financial history of their loan applican
 - The reason for selecting the e_signing process as the response variable is due to the structure of the loan application.
 - The official application begins with the lead arriving on our website after we opted to acquire it. Here, The applicant begins the onboarding process to apply for a loan. The user begins to provide more financial information by going over every screen of the onboarding process. This first phase ends with the applicant providing his/ her signature indicating all of the given information is correct.
 - Any of the following screens, in which the applicant is approved/denied and given the terms of the loan, is dependent on the company, not the applicant stops having control of the application process.
-# CORRELAYION VISUAL AND CONFUSION MATRIX
+- 
+# CORRELATION VISUALIZATION AND CONFUSION MATRIX
 
 ![histogram](hist.png)
 
