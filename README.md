@@ -1,6 +1,6 @@
 # Predicting the Likelihood of E-Signing a Loan Based on Financial History
 
-# Machine Learning: Use cases in FINTECH
+# Machine Learning:
 
 - The data for these projects are manufactured fields based on trends found in real-world case studies. The fields describe what companies usually track from their users, and the distributions are based on observed distributions in the real-world analysis. This means that, although the data has been artificially created, the patterns, associations, and distributions are not random.
 
